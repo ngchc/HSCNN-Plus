@@ -24,9 +24,9 @@ sid=eTJ2bFFQR3BzTm5FTGxjcC1WUWk3TXRsbGo3YTBjYi05SWVvSlE](http://pan.bitahub.com/
 ## Train the model
 Usage example to train a new model for clean RGB images <br/>
 ```
-cd hscnn-d_clean/train python train.py
+cd hscnn-d_clean/train && python train.py
 ```
 Usage example to train a new model for real-world RGB images <br/>
 ```
-cd hscnn-d_real/train python train.py
+cd hscnn-d_real/train && python train.py
 ```

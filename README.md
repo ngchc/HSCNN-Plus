@@ -1,4 +1,4 @@
-HSCNN+: Advanced HyperSpectral CNN
+HSCNN+: Advanced CNN-Based Hyperspectral Recovery from RGB Images
 ====
 Zhan Shi, Chang Chen, Zhiwei Xiong, Dong Liu, Feng Wu. [HSCNN+: Advanced CNN-Based Hyperspectral Recovery from RGB Images](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Shi_HSCNN_Advanced_CNN-Based_CVPR_2018_paper.pdf). In CVPR Workshop 2018. (Winner of NTIRE Challenge on Spectral Reconstruction from RGB Images) <br/>
 

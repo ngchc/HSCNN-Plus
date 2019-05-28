@@ -30,3 +30,7 @@ Usage example to train a new model for real-world RGB images <br/>
 ```
 cd hscnn-d_real/train && python train.py
 ```
+
+## Datasets
+ICVL http://icvl.cs.bgu.ac.il/hyperspectral <br/>
+NTIRE2018 http://icvl.cs.bgu.ac.il/ntire-2018

@@ -19,7 +19,8 @@ cat *.tar.gz.* | tar -xzv && cd ../
 To access the validation dataset and the reconstructed results of HSCNN-D <br/>
 Download the NTIRE2018_Validate folder from <br/>
 [http://pan.bitahub.com/index.php?mod=shares& <br/>
-sid=eTJ2bFFQR3BzTm5FTGxjcC1WUWk3TXRsbGo3YTBjYi05SWVvSlE](http://pan.bitahub.com/index.php?mod=shares&sid=eTJ2bFFQR3BzTm5FTGxjcC1WUWk3TXRsbGo3YTBjYi05SWVvSlE)
+sid=eTJ2bFFQR3BzTm5FTGxjcC1WUWk3TXRsbGo3YTBjYi05SWVvSlE](http://pan.bitahub.com/index.php?mod=shares&sid=eTJ2bFFQR3BzTm5FTGxjcC1WUWk3TXRsbGo3YTBjYi05SWVvSlE) <br/>
+*Update 2019/06/05*: Model-ensembled results of HSCNN-D are now replaced by the single-model ones (Table 3).
 
 ## Train the model
 Usage example to train a new model for clean RGB images <br/>
